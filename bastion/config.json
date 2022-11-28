@@ -1,0 +1,11 @@
+{
+    "instance_name": "# Specify Instance name",
+    "vpc_id": "# Specify VPC ID",
+    "instance_type": "# Specify Instance Type",
+    "image_id": "ami-0ed961fa828560210 -> AMI ID of public Amazon Linux 2 AMI - amzn2-ami-hvm-2.0.20211005.0-x86_64-gp2", 
+    "availability_zone": "# Specify Availability Zone",
+    "key_name": "# Specify existing key. Important Note: Create a key beforehand if it does not exists",
+    "subnet_id": "# Specify public subnet",
+    "account": "# Specify AWS Account ID",
+    "region": "# Specify region in which EC2 Bastion will be created"
+}
